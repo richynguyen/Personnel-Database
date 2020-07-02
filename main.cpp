@@ -1,7 +1,3 @@
-// HW3.1.cpp : Defines the entry point for the console application.
-// Worked with mentors
-// Worked with classmate Jose Juarez
-
 //#include "stdafx.h"
 #include <iostream>
 #include <string>
@@ -14,7 +10,7 @@
 //#include "ArgumentManager.h"
 using namespace std;
 
-#define MAX 10					// define MAX to int 10, for use in data array
+#define MAX 10				// define MAX to int 10, for use in data array
 int nodeCounter = 0;			// global declaration of nodeCounter
 int indexCounter = 0;
 
@@ -1619,5 +1615,3 @@ int main(int argc, char* argv[])
 
     return 0;
 }
-
-
